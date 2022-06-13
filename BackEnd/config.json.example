@@ -1,0 +1,10 @@
+{
+    "db": {
+        "hostname": "namehost",
+        "port": 28015,
+        "db_name": "namedb"
+    },
+    "api": {
+        "port": 3000
+    }
+}
